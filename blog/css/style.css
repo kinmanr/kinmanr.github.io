@@ -114,6 +114,17 @@ body {
     min-width:56.25rem;
 }
 
+@media screen and (max-width: 992px) {
+    body {
+      background-color: rgb(217, 217, 226);
+    }
+  }
+  
+  @media screen and (max-width: 600px) {
+    body {
+      background-color: rgb(230, 240, 244);
+    }
+  }
 
 /* LAYOUT */
 
